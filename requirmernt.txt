@@ -1,0 +1,14 @@
+# main modules
+Django==4.1.2
+python-decouple==3.6
+pillow
+djangorestframework
+
+
+# third party package
+markdown
+django-filter
+drf_yasg
+djangorestframework-simplejwt
+pytest
+pytest-django
